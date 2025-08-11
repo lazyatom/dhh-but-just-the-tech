@@ -8,7 +8,7 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-08-11T06:08:24+00:00</updated>
+  <updated>2025-08-11T12:09:04+00:00</updated>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -344,20 +344,5 @@
     <updated>2025-04-17T10:03:29Z</updated>
     <dc:date>2025-04-17T10:03:29Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/42666</id>
-    <link href="https://world.hey.com/dhh/why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994"/>
-    <published>2025-04-08T10:04:28Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;We just opened a &lt;a href=&quot;https://apply.workable.com/37signals/j/A97E298621/&quot;&gt;search for a new junior programmer&lt;/a&gt; at 37signals. It&#39;s been years since we last hired a junior, but the real reason the listing is turning heads is because we&#39;re open about the yearly salary: $145,849*. That&#39;s high enough that programmers with lots of experience are asking whether they could apply, even if they aren&#39;t technically &quot;junior&quot;. The answer is no.&lt;/div&gt;&lt;div&gt;&lt;br&gt;The reason we&#39;re willing to pay a junior more than most is because we&#39;re looking for a junior who&#39;s better than most. Not better in &quot;what do they already know&quot;, but in &quot;how far could they go&quot;. We&#39;re hiring for peak promise — and such promise only remains until it&#39;s revealed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Maybe it sounds a little harsh, but a programmer who&#39;s been working professionally for five years has likely already revealed their potential. What you&#39;re going to get is roughly what you see. That doesn&#39;t mean that people can&#39;t get better after that, but it means that the trajectory by which they improve has already been plotted.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Whereas a programmer who&#39;s either straight out of school or fresh off their first internship or short-stint job is essentially all potential. So you draw their line on the basis of just a few early dots, but the line can be steep.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s not that different from something like the NFL scouting combine. Teams fight to find the promise of The Next All-Star. These rookies won&#39;t have the experience that someone who&#39;s already played in the league for years would have, but they have the potential to be the best. Someone who&#39;s already played for several seasons will have shown what they have and be weighed accordingly.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This is not easy to do! Plenty of rookies, in sports and programming, may show some early potential, then fail to elevate their game to where the buyer is betting it could be. But that&#39;s the chance you take to land someone extraordinary.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So if you know a junior programmer with less than three years of industry experience who is sparkling with potential, do let them know of our listing. And if you know someone awesome who&#39;s already a senior programmer, we also have &lt;a href=&quot;https://apply.workable.com/37signals/j/23D7D76B08/&quot;&gt;an opening for them&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*It&#39;s a funnily precise number because it&#39;s pulled directly from the Radford salary database, which we query for the top 10% of San Francisco salaries for junior programmers.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Why we won&#39;t hire a junior with five years of experience</title>
-    <updated>2025-04-08T10:06:22Z</updated>
-    <dc:date>2025-04-08T10:06:22Z</dc:date>
-  </entry>
-  <dc:date>2025-08-11T06:08:24+00:00</dc:date>
+  <dc:date>2025-08-11T12:09:04+00:00</dc:date>
 </feed>
