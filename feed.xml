@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-09-06T06:06:06+00:00</updated>
+  <updated>2025-09-06T12:07:05+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/44814</id>
+    <link href="https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59"/>
+    <published>2025-09-06T09:02:10Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;The best engineering teams take control of their tools. They help develop the frameworks and libraries they depend on, and they do this by running production code on edge — the unreleased next version. That&#39;s where progress is made, that&#39;s where participation matters most.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This sounds scary at first. Edge? Isn&#39;t that just another word for &lt;em&gt;danger&lt;/em&gt;? What if there&#39;s a bug?! Yes, what if? Do you think bugs either just magically appear or disappear? No, they&#39;re put there by programmers and removed by the very same. If you want bug-free frameworks and libraries, you have to work for it, but if you do, the reward for your responsibility is increased engineering excellence.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Take &lt;a href=&quot;https://rubyonrails.org/2025/9/4/rails-8-1-beta-1&quot;&gt;Rails 8.1&lt;/a&gt;, as an example. We just released the first beta version at &lt;a href=&quot;https://www.youtube.com/watch?v=gcwzWzC7gUA&quot;&gt;Rails World&lt;/a&gt;, but Shopify, GitHub, 37signals, and a handful of other frontier teams have already been running this code in production for almost a year. Of course, there were bugs along the way, but good automated testing and diligent programmers caught virtually all of them before they went to production.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It didn&#39;t always used to be this way. Once upon a time, I felt like I had one of the only teams running Rails on edge in production. But now two of the most important web apps in the world are doing the same! At an incredible scale and criticality.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This has allowed both of them, and the few others with the same frontier ambition, to foster a truly elite engineering culture. One that isn&#39;t just a consumer of open source software, but a real-time co-creator. This is a step function in competence and prowess for any team.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s also an incredible motivation boost. When your programmers are able to directly influence the tools they&#39;re working with, they&#39;re far more likely to do so, and thus they go deeper, learn more, and create connections to experts in the same situation elsewhere. But this requires being able to immediately use the improvements or bug fixes they help devise. It doesn&#39;t work if you sit around waiting patiently for the next release before you dare dive in.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Far more companies could do this. Far more companies &lt;em&gt;should&lt;/em&gt; do this. Whether it&#39;s with Ruby, Rails, &lt;a href=&quot;https://omarchy.org&quot;&gt;Omarchy&lt;/a&gt;, or whatever you&#39;re using, your team could level up by getting more involved, taking responsibility for finding issues on edge, and reaping the reward of excellence in the process. So what are you waiting on?&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Engineering excellence starts on edge</title>
+    <updated>2025-09-06T09:02:10Z</updated>
+    <dc:date>2025-09-06T09:02:10Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -352,20 +367,5 @@
     <updated>2025-04-28T06:00:48Z</updated>
     <dc:date>2025-04-28T06:00:48Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/42890</id>
-    <link href="https://world.hey.com/dhh/we-ll-always-need-junior-programmers-69ddb4a1"/>
-    <published>2025-04-24T07:49:03Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;We received over 2,200 applications for our &lt;a href=&quot;https://x.com/dhh/status/1909312757058482443&quot;&gt;just-closed junior programmer opening&lt;/a&gt;, and now we&#39;re going through all of them by hand and by human. No AI screening here. It&#39;s a lot of work, but we have a great team who take the work seriously, so in a few weeks, we&#39;ll be able to invite a group of finalists to the next phase.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This highlights the folly of thinking that what it&#39;ll take to land a job like this is some specific list of criteria, though. Yes, you have to present a baseline of relevant markers to even get into consideration, like a great cover letter that doesn&#39;t smell like AI slop, promising projects or work experience or educational background, etc. But to actually get the job, you have to be the best of the ones who&#39;ve applied!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It sounds self-evident, maybe, but I see questions time and again about it, so it must not be. Almost every job opening is grading applicants on the curve of everyone who has applied. And the best candidate of the lot gets the job. You can&#39;t quantify what that looks like in advance.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&#39;m excited to see who makes it to the final stage. I already hear early whispers that we got some exceptional applicants in this round. It would be great to help counter the narrative that this industry no longer needs juniors. That&#39;s simply retarded.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;However good AI gets, we&#39;re always going to need people who know the ins and outs of what the machine comes up with. Maybe not as many, maybe not in the same roles, but it&#39;s truly utopian thinking that mankind won&#39;t need people capable of vetting the work done by AI in five minutes.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>We&#39;ll always need junior programmers</title>
-    <updated>2025-04-24T07:49:03Z</updated>
-    <dc:date>2025-04-24T07:49:03Z</dc:date>
-  </entry>
-  <dc:date>2025-09-06T06:06:06+00:00</dc:date>
+  <dc:date>2025-09-06T12:07:05+00:00</dc:date>
 </feed>
