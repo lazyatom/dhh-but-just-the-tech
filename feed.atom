@@ -8,7 +8,7 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-09-11T12:08:33+00:00</updated>
+  <updated>2025-09-11T18:05:53+00:00</updated>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -376,20 +376,5 @@
     <updated>2025-05-25T09:54:41Z</updated>
     <dc:date>2025-05-25T09:54:41Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/43116</id>
-    <link href="https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49"/>
-    <published>2025-05-13T07:32:48Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;The appeal of &quot;vibe coding&quot; — where programmers lean back and prompt their way through an entire project with AI — appears partly to be based on the fact that so many development environments are deeply unpleasant to work with.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So it&#39;s no wonder that all these programmers stuck working with cumbersome languages and frameworks can&#39;t wait to give up on the coding part of software development. If I found writing code a chore, I&#39;d be looking for retirement too.&lt;/div&gt;&lt;div&gt;&lt;br&gt;But I don&#39;t.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I mean, I used to! When I started programming, it was purely because I wanted programs. Learning to code was a necessary but inconvenient step toward bringing systems to life. That all changed when I learned Ruby and built Rails.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Ruby&#39;s entire premise is &quot;programmer happiness&quot;: that writing code should be a joy. And historically, the language was willing to trade run-time performance, memory usage, and other machine sympathies against the pursuit of said programmer happiness. These days, it seems like you can eat your cake and have it too, though. Ruby, after thirty years of constant improvement, is now incredibly fast and efficient, yet remains a delight to work with.&lt;/div&gt;&lt;div&gt;&lt;br&gt;That ethos couldn&#39;t shine brighter now. Disgruntled programmers have finally realized that an escape from nasty syntax, boilerplate galore, and ecosystem hyper-churn is possible. That&#39;s the appeal of AI: having it hide away all that unpleasantness. Only it&#39;s like cleaning your room by stuffing the mess under the bed — it doesn&#39;t make it go away!&lt;/div&gt;&lt;div&gt;&lt;br&gt;But the instinct is correct: Programming &lt;em&gt;should&lt;/em&gt; be a vibe! It should be fun! It should resemble English closely enough that line noise doesn&#39;t obscure the underlying ideas and decisions. It should allow a richness of expression that serves the human reader instead of favoring the strictness preferred by the computer. Ruby does.&lt;/div&gt;&lt;div&gt;&lt;br&gt;And given that, I have no interest in giving up writing code. That&#39;s not the unpleasant part that I want AI to take off my hands. Just so I can — what? — become a project manager for a murder of AI crows? I&#39;ve had the option to retreat up the manager ladder for most of my career, but I&#39;ve steadily refused, because I really like writing Ruby! It&#39;s the most enjoyable part of the job!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;That doesn&#39;t mean AI doesn&#39;t have a role to play when writing Ruby. I&#39;m conversing and collaborating with LLMs all day long — looking up APIs, clarifying concepts, and asking stupid questions. AI is a superb pair programmer, but I&#39;d retire before permanently handing it the keyboard to drive the code.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maybe one day, wanting to write code will be a quaint concept. Like tending to horses for transportation in the modern world — done as a hobby but devoid of any economic value.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I don&#39;t think anyone knows just how far we can push the intelligence and creativity of these insatiable token munchers. And I wouldn&#39;t bet against their advance, but it&#39;s clear to me that a big part of their appeal to programmers is the wisdom that Ruby was founded on: Programming should favor and flatter the human.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Coding should be a vibe!</title>
-    <updated>2025-05-13T07:32:48Z</updated>
-    <dc:date>2025-05-13T07:32:48Z</dc:date>
-  </entry>
-  <dc:date>2025-09-11T12:08:33+00:00</dc:date>
+  <dc:date>2025-09-11T18:05:53+00:00</dc:date>
 </feed>
