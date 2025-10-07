@@ -8,7 +8,7 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-10-07T12:09:19+00:00</updated>
+  <updated>2025-10-07T18:07:03+00:00</updated>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -283,40 +283,5 @@
     <updated>2025-06-27T15:21:37Z</updated>
     <dc:date>2025-06-27T15:21:37Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/43686</id>
-    <link href="https://world.hey.com/dhh/omarchy-is-out-4666dd31"/>
-    <published>2025-06-26T23:07:19Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;My latest love letter to Linux has been published. It&#39;s called &lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt;, and it&#39;s an opinionated setup of &lt;a href=&quot;https://archlinux.org/&quot;&gt;the Arch Linux distribution&lt;/a&gt; and &lt;a href=&quot;https://hypr.land/&quot;&gt;the Hyprland tiling window manager&lt;/a&gt;. With everything configured out-of-the-box to give you exactly the same setup that I now run every day. My Platonic ideal of what a developer environment should look like.&lt;/div&gt;&lt;div&gt;&lt;br&gt;It&#39;s not for everyone, though. Arch has a reputation for being difficult, but while I think that&#39;s vastly overstated, I still think it&#39;s fair to say that Ubuntu is an easier landing for someone new to Linux. And that&#39;s why this exists as a sister project to &lt;a href=&quot;https://omakub.org&quot;&gt;Omakub&lt;/a&gt; — my opinionated setup for Ubuntu — and not a replacement of it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Because I do think that Hyprland deserves its reputation of being difficult! Not because the core tiling window manager is hard, but because it comes incredibly bare-boned in the box. You have to figure out everything yourself. Even how to get a lock screen or idle timing or a menu bar or bluetooth setting or... you get the idea.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Omarchy is an attempt to solve for all that. To give you a default set of great, beautiful configurations for Hyprland, and installing all the common tooling you&#39;d normally want. You could setup this, not change a thing, and you&#39;ll have exactly what I run every day.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But you can also just use this as a paved path into the glorious world of Linux ricing. The flip side of Hyprland being so atomized is that it&#39;s infinitely configurable. You can really, really make it yours. No wonder its the preferred platform for &lt;a href=&quot;https://www.reddit.com/r/unixporn/&quot;&gt;r/unixporn&lt;/a&gt;, and even &lt;a href=&quot;https://www.youtube.com/watch?v=pVI_smLgTY0&quot;&gt;what PewDiePie picked up&lt;/a&gt; for his amazing Russian nuclear core build.&lt;/div&gt;&lt;div&gt;&lt;br&gt;I don&#39;t know when we&#39;ll literally get &quot;The Year of Linux on the Desktop&quot;, but I&#39;ve never been as convinced that its coming as I am now. There&#39;s enough dissent in the water. Enough dissatisfaction with both Apple and Microsoft.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And between Valve going all-in on Steam on Linux (the Steamdeck runs Arch!), major creators (like PewDiePie) switching to Linux, and incredible projects like Hyprland — which offer not just a cheap visual copy of the two major commercial operating systems, but something much more unique and compelling — I think all the factors are in place for a big switch. At least among developers.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But broad adoption or not, I&#39;m in love with Linux, and thrilled to share my work to make it easier to enjoy.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;attachment-gallery attachment-gallery--2&quot;&gt;
-    &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
-      &lt;a download=&quot;image.png&quot; title=&quot;Download image.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2170428413&quot; href=&quot;https://world.hey.com/dhh/4666dd31/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyODQxMywicHVyIjoiYmxvYl9pZCJ9fQ--e7af169ff03e28f13d4ebd1e85c7dbca861054b25abac92ef6fe562b708fbd22/image.png?disposition=attachment&quot;&gt;
-        &lt;img src=&quot;https://world.hey.com/dhh/4666dd31/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyODQxMywicHVyIjoiYmxvYl9pZCJ9fQ--e7af169ff03e28f13d4ebd1e85c7dbca861054b25abac92ef6fe562b708fbd22/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAwLDEyMDBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--8a4eadc39996b456981c13ce71a114e6d921a6725bb1a424222e8cbff9ed0cc8/image.png&quot; alt=&quot;image.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
-&lt;/a&gt;
-  &lt;/figure&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
-      &lt;a download=&quot;image.png&quot; title=&quot;Download image.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2170428909&quot; href=&quot;https://world.hey.com/dhh/4666dd31/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyODkwOSwicHVyIjoiYmxvYl9pZCJ9fQ--4627d9d22d55a0606881ddc401e92d0c91e11f15238576c0c03ca136019bf248/image.png?disposition=attachment&quot;&gt;
-        &lt;img src=&quot;https://world.hey.com/dhh/4666dd31/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyODkwOSwicHVyIjoiYmxvYl9pZCJ9fQ--4627d9d22d55a0606881ddc401e92d0c91e11f15238576c0c03ca136019bf248/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAwLDEyMDBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--8a4eadc39996b456981c13ce71a114e6d921a6725bb1a424222e8cbff9ed0cc8/image.png&quot; alt=&quot;image.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
-&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;&lt;div class=&quot;attachment-gallery attachment-gallery--2&quot;&gt;
-    &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
-      &lt;a download=&quot;image.png&quot; title=&quot;Download image.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2170429104&quot; href=&quot;https://world.hey.com/dhh/4666dd31/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyOTEwNCwicHVyIjoiYmxvYl9pZCJ9fQ--60116de216c2c3ef09b3e55cf4a41a42258d2052ab452807fd70a757275dafdb/image.png?disposition=attachment&quot;&gt;
-        &lt;img src=&quot;https://world.hey.com/dhh/4666dd31/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyOTEwNCwicHVyIjoiYmxvYl9pZCJ9fQ--60116de216c2c3ef09b3e55cf4a41a42258d2052ab452807fd70a757275dafdb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAwLDEyMDBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--8a4eadc39996b456981c13ce71a114e6d921a6725bb1a424222e8cbff9ed0cc8/image.png&quot; alt=&quot;image.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
-&lt;/a&gt;
-  &lt;/figure&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
-      &lt;a download=&quot;image.png&quot; title=&quot;Download image.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2170429311&quot; href=&quot;https://world.hey.com/dhh/4666dd31/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyOTMxMSwicHVyIjoiYmxvYl9pZCJ9fQ--913afad5b22f70898ac0f210b1cce18c37772207f51533e2f44dc20739b38fab/image.png?disposition=attachment&quot;&gt;
-        &lt;img src=&quot;https://world.hey.com/dhh/4666dd31/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MDQyOTMxMSwicHVyIjoiYmxvYl9pZCJ9fQ--913afad5b22f70898ac0f210b1cce18c37772207f51533e2f44dc20739b38fab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsxNjAwLDEyMDBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--8a4eadc39996b456981c13ce71a114e6d921a6725bb1a424222e8cbff9ed0cc8/image.png&quot; alt=&quot;image.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
-&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Omarchy is out</title>
-    <updated>2025-06-26T23:07:19Z</updated>
-    <dc:date>2025-06-26T23:07:19Z</dc:date>
-  </entry>
-  <dc:date>2025-10-07T12:09:19+00:00</dc:date>
+  <dc:date>2025-10-07T18:07:03+00:00</dc:date>
 </feed>
