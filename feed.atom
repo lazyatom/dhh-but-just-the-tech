@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-10-29T06:08:10+00:00</updated>
+  <updated>2025-10-29T12:09:04+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/45526</id>
+    <link href="https://world.hey.com/dhh/sabbaticals-keep-our-attrition-at-bay-9ccba5c0"/>
+    <published>2025-10-29T09:23:31Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;The only way many tech workers in the US can get a long break is by quitting their job. So lots of them do that every few years, which is partly why the average tenure in our industry is at an atrocious 18 months. But this terrible rate of churn is often avoidable by one simple benefit trick: Sabbaticals.&lt;/div&gt;&lt;div&gt;&lt;br&gt;We&#39;ve been giving everyone at 37signals &lt;a href=&quot;https://basecamp.com/handbook/benefits-and-perks#sabbatical&quot;&gt;a six-week sabbatical every three years&lt;/a&gt; for the last fifteen years or so. It&#39;s been magical for retention because a break like that allows the mind to reset in a way a two-week vacation never could. And when employees yearn for such a reset, the typical option is usually just to quit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;I know the idea of a six-week sabbatical might sound strange to many Europeans who&#39;d be forgiven for thinking &quot;isn&#39;t that just August&quot;? And they&#39;re not exactly wrong. Europeans usually do enjoy more vacation time, but in the tech industry, that also comes with much lower pay. Easily half to two-thirds less.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I think it&#39;s entirely possible to have it both ways: Work for an American tech company with American pay levels, but also enjoy a regular full reset, without having to quit to get it.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And the argument for the boss doesn&#39;t even have to be some humanistic plea about long-term happiness. It can simply be about retention: it&#39;s very expensive to see smart, trained people walk out the door.&lt;/div&gt;&lt;div&gt;&lt;br&gt;I&#39;d even argue that bosses — be they founders or professional executives — benefit just as much from a regular sabbatical like anyone else. Whenever Jason or I have taken one, we&#39;ve always come back with fresh ideas and perspectives that invariably lead to positive changes or new ambitions that wouldn&#39;t have come otherwise.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Six weeks is also just long enough to remind tired founders that selling their company isn&#39;t likely to be the bliss they imagine. That &lt;a href=&quot;https://signalvnoise.com/posts/1930-mojito-island-is-a-mirage&quot;&gt;mojito island&lt;/a&gt; gets boring quickly. That by week five, they&#39;re probably already antsy to get back to the action. There are endless stories of founders who regret selling their business when all they needed was a six-week break from the startup sprint.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bottom line is that we all need a long break every now and then. Not just two weeks on Mallorca, but time enough to get bored. To get hungry for the intellectual stimulation of work and the social connection of colleagues. The sabbatical is a great way to deliver that and keep founders from wanting to sell and employees from wanting to quit.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Sabbaticals keep our attrition at bay</title>
+    <updated>2025-10-29T09:23:56Z</updated>
+    <dc:date>2025-10-29T09:23:56Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -268,20 +283,5 @@
     <updated>2025-07-16T17:31:52Z</updated>
     <dc:date>2025-07-16T17:31:52Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/43798</id>
-    <link href="https://world.hey.com/dhh/get-in-losers-we-re-moving-to-linux-5e1b93cd"/>
-    <published>2025-07-03T22:26:17Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;I&#39;ve never seen so many developers curious about leaving the Mac and giving Linux a go. Something has really changed in the last few years. Maybe Linux just got better? Maybe &lt;a href=&quot;https://world.hey.com/dhh/cheap-mini-pcs-have-gotten-really-good-c70ab40f&quot;&gt;powerful mini PCs&lt;/a&gt; made it easier? Maybe Apple just fumbled their relationship with developers &lt;a href=&quot;https://mobilegamer.biz/apples-new-eu-app-store-rules-are-insane-intentionally-confusing-and-blatantly-unlawful-say-pundits/&quot;&gt;one too many times&lt;/a&gt;? Maybe it&#39;s all of it. But whatever the reason, the vibe shift is noticeable.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This is why the future is so hard to predict! People have been joking about &quot;The Year of Linux on the Desktop&quot; since the late 90s. Just like self-driving cars were supposed to be a thing back in 2017. And now, in the year of our Lord 2025, it seems like &lt;a href=&quot;https://world.hey.com/dhh/self-driving-is-finally-happening-1d973fdd&quot;&gt;we&#39;re getting both&lt;/a&gt;!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I also wouldn&#39;t underestimate the cultural influence of a few key people. &lt;a href=&quot;https://www.youtube.com/watch?v=pVI_smLgTY0&quot;&gt;PewDiePie sharing his journey into Arch and Hyprland with his 110 million followers&lt;/a&gt; is important. &lt;a href=&quot;https://www.youtube.com/watch?v=ZH3iKbEiks0&quot;&gt;ThePrimeagen moving to Arch and Hyprland&lt;/a&gt; is important. Typecraft teaching beginners &lt;a href=&quot;https://www.youtube.com/watch?v=2CP_9-jCV6A&quot;&gt;how to build an Arch and Hyprland setup from scratch&lt;/a&gt; is important (and who &lt;a href=&quot;https://www.youtube.com/watch?v=zikJTpJgzzo&quot;&gt;I just spoke to about Omarchy&lt;/a&gt;). Gabe Newell&#39;s &lt;a href=&quot;https://store.steampowered.com/steamdeck&quot;&gt;Steam Deck&lt;/a&gt; being built on Arch and pushing Proton to &lt;a href=&quot;https://www.protondb.com/explore?selectedFilters=whitelisted&quot;&gt;over 20,000 compatible Linux games&lt;/a&gt; is important.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;You&#39;ll notice a trend here, which is that &lt;a href=&quot;https://archlinux.org/&quot;&gt;Arch Linux&lt;/a&gt;, a notoriously &quot;difficult&quot; distribution, is at the center of much of this new engagement. Despite the fact that it&#39;s been around since 2003! There&#39;s nothing new about Arch, but there&#39;s something new about the circles of people it&#39;s engaging.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&#39;ve put Arch at the center of &lt;a href=&quot;https://omarchy.org&quot;&gt;Omarchy&lt;/a&gt; too. Originally just because that was what &lt;a href=&quot;https://hypr.land/&quot;&gt;Hyprland&lt;/a&gt; recommended. Then, after living with the wonders of 90,000+ packages on the community-driven &lt;a href=&quot;https://aur.archlinux.org/&quot;&gt;AUR package repository&lt;/a&gt;, for its own sake. It&#39;s really good!&lt;/div&gt;&lt;div&gt;&lt;br&gt;But while Arch (and Hyprland) are having a moment amongst a new crowd, it&#39;s also &quot;just&quot; Linux at its core. And Linux really is the star of the show. The perfect, free, and open alternative that was just sitting around waiting for developers to finally have had enough of the commercial offerings from Apple and Microsoft.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Now obviously there&#39;s a taste of &quot;new vegan sees vegans everywhere&quot; here. You start talking about Linux, and you&#39;ll hear from folks already in the community or those considering the move too. It&#39;s easy to confuse what you&#39;d like to be true with what is actually true.&lt;/div&gt;&lt;div&gt;&lt;br&gt;And it&#39;s definitely true that Linux is still a niche operating system on the desktop. Even among developers. Apple and Microsoft sit on the lion&#39;s share of the market share. But the mind share? They&#39;ve been losing that fast.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The window is open for a major shift to happen. First gradually, then suddenly. It feels like morning in Linux land!&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Get in losers, we&#39;re moving to Linux!</title>
-    <updated>2025-07-03T22:26:17Z</updated>
-    <dc:date>2025-07-03T22:26:17Z</dc:date>
-  </entry>
-  <dc:date>2025-10-29T06:08:10+00:00</dc:date>
+  <dc:date>2025-10-29T12:09:04+00:00</dc:date>
 </feed>
