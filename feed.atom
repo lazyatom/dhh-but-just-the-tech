@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-11-24T06:08:07+00:00</updated>
+  <updated>2025-11-24T12:08:46+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/45833</id>
+    <link href="https://world.hey.com/dhh/no-backup-no-cry-274e0c31"/>
+    <published>2025-11-24T10:40:13Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;I haven&#39;t done a full-system backup since back in the olden days before &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt; and Git. Every machine I now own is treated as a stateless, disposable unit that can be stolen, lost, or corrupted without consequences. The combination of full-disk encryption and distributed copies of all important data means there&#39;s just no stress if anything bad happens to the computer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;But don&#39;t mistake this for just a &quot;everything is in the cloud&quot; argument. Yes, I use Dropbox and GitHub to hold all the data that I care about, but the beauty of these systems is that they work with local copies of that data, so with a couple of computers here and there, I always have a recent version of everything, in case either syncing service should go offline (or away!).&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The trick to making this regime work is to stick with it. This is especially true for Dropbox. It&#39;s where everything of importance needs to go: documents, images, whatever. And it&#39;s instantly distributed on all the machines I run. Everything outside of Dropbox is essentially treated as a temporary directory that&#39;s fully disposable.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s from this principle that I built &lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt; too. Given that I already had a way to restore all data and code onto a new machine in no time at all, it seemed so unreasonable that the configuration needed for a fully functional system still took hours on end. Now it&#39;s all encoded in an ISO setup that installs in two minutes on a fast computer.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Now it&#39;s true that this method relies on both multiple computers and a fast internet connection. If you&#39;re stuck on a rock in the middle of nowhere, and you somehow haven&#39;t discovered the glory of Starlink, maybe just stick to your old full-disk backup ways. But if you live in the modern world, there ought to be no reason why a busted computer is a calamity of data loss or a long restore process.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>No backup, no cry</title>
+    <updated>2025-11-24T10:40:13Z</updated>
+    <dc:date>2025-11-24T10:40:13Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -283,5 +298,5 @@
     <updated>2025-07-16T17:31:52Z</updated>
     <dc:date>2025-07-16T17:31:52Z</dc:date>
   </entry>
-  <dc:date>2025-11-24T06:08:07+00:00</dc:date>
+  <dc:date>2025-11-24T12:08:46+00:00</dc:date>
 </feed>
