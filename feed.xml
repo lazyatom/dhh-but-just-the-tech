@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-11-25T06:08:15+00:00</updated>
+  <updated>2025-11-25T12:09:37+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/45845</id>
+    <link href="https://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b"/>
+    <published>2025-11-25T08:29:01Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;It&#39;s pretty incredible that we&#39;re able to run all these awesome AI models on our own hardware now. From downscaled versions of DeepSeek to gpt-oss-20b, there are many options for many types of computers. But let&#39;s get real here: they&#39;re all vastly behind the frontier models available for rent, and thus for most developers a curiosity at best.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This doesn&#39;t take anything away from the technical accomplishment. It doesn&#39;t take anything away from the fact that small models are improving, and that maybe one day they&#39;ll indeed be good enough for developers to rely on them in their daily work.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But that day is not today.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thus, I find it spurious to hear developers evaluate their next computer on the prospect of how well it&#39;s capable of running local models. Because they all suck! Whether one sucks a little less than the other doesn&#39;t really matter. And as soon as you discover this, you&#39;ll be back to using the rented models for the vast majority of the work you&#39;re doing.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This is actually great news! It means you really don&#39;t need a 128GB VRAM computer on your desk. Which should come as a relief now that &lt;a href=&quot;https://www.pcworld.com/article/2984629/ram-is-so-expensive-that-stores-are-selling-it-at-market-prices.html&quot;&gt;RAM prices are skyrocketing&lt;/a&gt;, exactly because of AI&#39;s insatiable demand for more resources. Most developers these days can get by with very little, especially if they&#39;re running Linux.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So as an experiment, I&#39;ve parked &lt;a href=&quot;https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff&quot;&gt;my lovely $2,000 Framework Desktop&lt;/a&gt; for a while. It&#39;s an incredible machine, but in the day-to-day, I&#39;ve actually found I barely notice the difference compared to a $500 mini PC from &lt;a href=&quot;https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1&quot;&gt;Beelink&lt;/a&gt; (or &lt;a href=&quot;https://world.hey.com/dhh/cheap-mini-pcs-have-gotten-really-good-c70ab40f&quot;&gt;Minisforum&lt;/a&gt;).&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I bet you likely need way less than you think too.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Local LLMs are how nerds now justify a big computer they don&#39;t need</title>
+    <updated>2025-11-25T08:29:01Z</updated>
+    <dc:date>2025-11-25T08:29:01Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -283,20 +298,5 @@
     <updated>2025-07-23T18:05:06Z</updated>
     <dc:date>2025-07-23T18:05:06Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/43947</id>
-    <link href="https://world.hey.com/dhh/linux-crosses-magic-market-share-threshold-in-us-1f914771"/>
-    <published>2025-07-16T17:31:52Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;According to Statcounter, &lt;a href=&quot;https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/&quot;&gt;Linux has claimed 5% market share of desktop computing in the US&lt;/a&gt;. That&#39;s double of where it was &lt;a href=&quot;https://gs.statcounter.com/os-market-share/desktop/united-states-of-america/#monthly-202207-202507&quot;&gt;just three years ago&lt;/a&gt;! Really impressive.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Windows is still dominant at 63%, and Apple sit at 26%. But for the latter, it&#39;s quite a drop from their peak of 33% in June 2023.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;These are just browser stats, though (even if it&#39;s backed up by &lt;a href=&quot;https://radar.cloudflare.com/explorer?dataSet=http&amp;amp;groupBy=os&amp;amp;dt=52w&amp;amp;filters=deviceType%253DDesktop%252CbotClass%253DLikely_Human&amp;amp;loc=US&quot;&gt;directionally-similar numbers from Cloudflare&lt;/a&gt;). There&#39;s undoubtedly some variability in the numbers, by the season, and by what lives in the relatively large 4% mystery box of &quot;other&quot;. But there&#39;s no denying that Linux is trending in the right direction in the US.&lt;/div&gt;&lt;div&gt;&lt;br&gt;As a Dane, though, I find it sad that &lt;a href=&quot;https://gs.statcounter.com/os-market-share/desktop/denmark/#monthly-202001-202507&quot;&gt;Denmark is once again a laggard&lt;/a&gt; when it comes to adoption. Windows is even more dominant there at almost 70% (with Apple at 15%). Linux is just under 2%. Interestingly, though, ChromeOS, which is basically a locked-down Linux distribution, is at almost 5%.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I guess I really shouldn&#39;t be disappointed because this is how it always was. It was a big reason why I moved to the US back in 2005. When Ruby on Rails was taking off, it was in America first and foremost. Danish companies were too conservative, too complacent, too married to Microsoft to really pay attention.&lt;/div&gt;&lt;div&gt;&lt;br&gt;There are &lt;a href=&quot;https://world.hey.com/dhh/denmark-gets-more-serious-about-digital-sovereignty-7736f756&quot;&gt;early indications&lt;/a&gt; that a willingness to change this laggard mentality might be sprouting, but we&#39;ve yet to see any evidence that a shift has actually taken hold yet. It&#39;s hard to change culture!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So while the Danes continue to fiddle, the Americans continue to push forward. Linux is on the up and up!&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Linux crosses magic market share threshold in US</title>
-    <updated>2025-07-16T17:31:52Z</updated>
-    <dc:date>2025-07-16T17:31:52Z</dc:date>
-  </entry>
-  <dc:date>2025-11-25T06:08:15+00:00</dc:date>
+  <dc:date>2025-11-25T12:09:37+00:00</dc:date>
 </feed>
