@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-12-01T06:08:29+00:00</updated>
+  <updated>2025-12-01T12:09:08+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/45934</id>
+    <link href="https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846"/>
+    <published>2025-12-01T08:32:41Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;Black Friday is usually when ecommerce sets new records. This has certainly been true for Shopify through most of its existence. So much so that the company spends months in advance preparing for The Big Day(s). You&#39;d think after more than twenty years, though, that things would have leveled out. But you&#39;d be wrong.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This year, merchants sold an astounding $6.2 billion worth of wares through Shopify on &lt;a href=&quot;https://bfcm.shopify.com/&quot;&gt;Black Friday&lt;/a&gt;. That&#39;s up 25% from last year, when the record was ~$5 billion. Just crazy high growth on a crazy big base. The law of big numbers clearly hasn&#39;t found a way to apply itself here yet!&lt;/div&gt;&lt;div&gt;&lt;br&gt;That volume of orders means the Shopify monolith gets put through its paces. The backend API peaked at 31 million requests per minute. The databases carried 53 million reads and 2 million writes per second. Bonkers.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s this kind of frontier load and criticality that makes Shopify the ideal patron saint of &lt;a href=&quot;https://rubyonrails.org/&quot;&gt;the Rails framework&lt;/a&gt; and &lt;a href=&quot;https://ruby-lang.org&quot;&gt;the Ruby programming language&lt;/a&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rarely do the stars align to shine so brightly that a single company is stewarded by a still-active programmer with a stellar pedigree of core contributions, saddled with such unceasing success, faced with a constant barrage of novel technical challenges, and willing to contribute everything they learn and build back into the open-source base pillars. But that&#39;s Shopify.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Ultimately, this is all downstream from being a founder-led business. Tobi Lütke not only served on the Rails core team in the early days, but continues to steer the Shopify ship with a programmer&#39;s eye for detail and exploration. The &lt;a href=&quot;https://github.com/basecamp/omarchy/releases/tag/v3.2.0&quot;&gt;latest release of Omarchy&lt;/a&gt; even features &lt;a href=&quot;https://github.com/tobi/try&quot;&gt;his new Try tool&lt;/a&gt;. How many CEOs of companies worth two hundred billion dollars still program like that?&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Despite all this, there&#39;s occasionally still some fringe consternation in the Ruby world about Shopify&#39;s dominance. In Rails, Shopify employs &lt;a href=&quot;https://rubyonrails.org/community&quot;&gt;almost half the core contributors&lt;/a&gt;. In Ruby, they have several people on the core team too. Seeing this as anything but a blessing is silly, though.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We wouldn&#39;t have such &lt;a href=&quot;https://rubyonrails.org/category/releases&quot;&gt;battle-tested releases of Rails&lt;/a&gt; without Shopify running production on the framework&#39;s edge. We wouldn&#39;t have gotten &lt;a href=&quot;https://shopify.engineering/ruby-yjit-is-production-ready&quot;&gt;YJIT&lt;/a&gt; without the years of effort they sunk into improving Ruby&#39;s core performance. And we wouldn&#39;t have seen the &lt;a href=&quot;https://www.youtube.com/watch?v=tiuW0JvPa7k&quot;&gt;recent production-proving of Ractors&lt;/a&gt; without them either. Any programming community should be so lucky as to have a Shopify!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Now I&#39;m obviously biased here. Not only have I been friends with Tobi for over twenty years, but I also serve on the board of directors for the company. I&#39;m both socially and economically incentivized to cheer for this extraordinary company. But that doesn&#39;t mean it isn&#39;t all true too!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Shopify is indeed the patron saint of Ruby on Rails. Its infrastructure team is the backbone of our ecosystem, and its continued success the best case study of how far you can take this framework and language. They deserve a gawd damn parade for all they do.&lt;/div&gt;&lt;div&gt;&lt;br&gt;So on this Cyber Monday, I say cheers to Tobi, cheers to the thousands of Shopifolk. You&#39;re killing it for merchants, shoppers, and all of us working with Ruby on Rails. Bravo.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Six billion reasons to cheer for Shopify</title>
+    <updated>2025-12-01T10:56:49Z</updated>
+    <dc:date>2025-12-01T10:56:49Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -298,5 +313,5 @@
     <updated>2025-07-23T18:05:06Z</updated>
     <dc:date>2025-07-23T18:05:06Z</dc:date>
   </entry>
-  <dc:date>2025-12-01T06:08:29+00:00</dc:date>
+  <dc:date>2025-12-01T12:09:08+00:00</dc:date>
 </feed>
