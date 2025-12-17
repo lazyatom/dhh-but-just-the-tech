@@ -8,7 +8,26 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2025-12-16T18:08:13+00:00</updated>
+  <updated>2025-12-17T00:22:30+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/46162</id>
+    <link href="https://world.hey.com/dhh/the-o-saasy-license-336c5c8f"/>
+    <published>2025-12-16T19:59:04Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;One of my favorite parts of the early web was how easy it was to see how the front-end was built. Before View Source was ruined by minification, transpiling, and bundling, you really could just right-click on any web page and learn how it was all done. It was glorious.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But even back then, this only ever applied to the front-end. At least with commercial applications, the back-end was always kept proprietary. So learning how to write great web applications still meant piecing together lessons from books, tutorials, and hello-world-style code examples, not from production-grade commercial software.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The O&#39;Saasy License seeks to remedy that. It&#39;s basically the do-whatever-you-want MIT license, but with the commercial rights to run the software as a service (SaaS) reserved for the copyright holder, thus encouraging more code to be open source while allowing the original creators to see a return on their investment.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We need more production-grade code to teach juniors and LLMs alike. A view source that extends to the back-end along with the open source invitation to fix bugs, propose features, and run the system yourself for free (if your data requirements or interests maks that a sensible choice over SaaS).&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This is what we&#39;re doing with &lt;a href=&quot;https://fizzy.do/&quot;&gt;Fizzy&lt;/a&gt;, but now we&#39;ve also given the O&#39;Saasy License a home to call its own at &lt;a href=&quot;http://osaasy.dev/&quot;&gt;osaasy.dev&lt;/a&gt;. The license is yours to download and apply to any project where it makes sense. I hope to read a lot more production-grade SaaS code as a result!&lt;br&gt;&lt;br&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
+      &lt;a download=&quot;osassy-license.png&quot; title=&quot;Download osassy-license.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2382631344&quot; href=&quot;https://world.hey.com/dhh/336c5c8f/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MjYzMTM0NCwicHVyIjoiYmxvYl9pZCJ9fQ--ca8e8c2eaa291c28171287ab2f86d9dd48d1e098ce75cce24e3eef1507fccab7/osassy-license.png?disposition=attachment&quot;&gt;
+        &lt;img src=&quot;https://world.hey.com/dhh/336c5c8f/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MjYzMTM0NCwicHVyIjoiYmxvYl9pZCJ9fQ--ca8e8c2eaa291c28171287ab2f86d9dd48d1e098ce75cce24e3eef1507fccab7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlszODQwLDI1NjBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--7edc7b21f6fad97fa22412618822c4d19725431f296c7ce47dc174b61535d27c/osassy-license.png&quot; alt=&quot;osassy-license.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
+&lt;/a&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>The O&#39;Saasy License</title>
+    <updated>2025-12-16T19:59:04Z</updated>
+    <dc:date>2025-12-16T19:59:04Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -325,5 +344,5 @@
     <updated>2025-08-05T16:49:35Z</updated>
     <dc:date>2025-08-05T16:49:35Z</dc:date>
   </entry>
-  <dc:date>2025-12-16T18:08:13+00:00</dc:date>
+  <dc:date>2025-12-17T00:22:30+00:00</dc:date>
 </feed>
