@@ -8,7 +8,26 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-02-05T12:14:17+00:00</updated>
+  <updated>2026-02-05T18:19:57+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/46860</id>
+    <link href="https://world.hey.com/dhh/clankers-with-claws-9f86fa71"/>
+    <published>2026-02-05T15:30:07Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;With &lt;a href=&quot;https://openclaw.ai/&quot;&gt;OpenClaw&lt;/a&gt; you&#39;re giving AI its own machine, long-term memory, reminders, and persistent execution. The model is no longer confined to a prompt-response cycle, but able to check its own email, Basecamp notifications, and whatever else you give it access to on a running basis. It&#39;s a sneak peek at a future where everyone has a personal agent assistant, and it&#39;s fascinating.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I set up mine on a &lt;a href=&quot;https://www.proxmox.com/en/&quot;&gt;Proxmox&lt;/a&gt; virtual machine to be fully isolated from my personal data and logins. (But there are people out there running wild and giving OpenClaw access to everything on their own machine, despite the repeated warnings that this is more than a little risky!).&lt;/div&gt;&lt;div&gt;&lt;br&gt;Then I tried to see just how little help it would need navigating our human-centric digital world. I didn&#39;t install any &lt;a href=&quot;https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview&quot;&gt;skills&lt;/a&gt;, any &lt;a href=&quot;https://modelcontextprotocol.io/docs/getting-started/intro&quot;&gt;MCPs&lt;/a&gt;, or give it access to any APIs. Zero machine accommodations. I just started off with a simple prompt: &quot;Sign up for Fizzy, so we have a place to collaborate. Here&#39;s the invite link.&quot;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kef, as I named my new agent, dutifully went to &lt;a href=&quot;https://fizzy.do/&quot;&gt;Fizzy&lt;/a&gt; to sign up, but was immediately stumped by needing an email address. It asked me what to do, and I replied: &quot;Just go to &lt;a href=&quot;https://www.hey.com/&quot;&gt;hey.com&lt;/a&gt; and sign up for a new account.&quot; So it did. In a single try. No errors, no steering, no accommodations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;After it had procured its own email address, it continued on with the task of signing up for Fizzy. And again, it completed the mission without any complications. Now we had a shared space to collaborate.&lt;/div&gt;&lt;div&gt;&lt;br&gt;So, as a test, I asked it to create a new board for business ideas, and add five cards with short suggestions, including providing a background image sourced from the web to describe the idea. And it did. Again, zero corrections. Perfect execution.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I then invited it to &lt;a href=&quot;https://basecamp.com/&quot;&gt;Basecamp&lt;/a&gt; by just adding it as I would any other user. That sent off an email to Kef&#39;s new HEY account, which it quickly received, then followed the instructions, got signed up, and greeted everyone in the chat room of the AI Labs project it was invited to.&lt;br&gt;&lt;br&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
+      &lt;a download=&quot;image.png&quot; title=&quot;Download image.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2440288521&quot; href=&quot;https://world.hey.com/dhh/9f86fa71/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjQ0MDI4ODUyMSwicHVyIjoiYmxvYl9pZCJ9fQ--09074eb1dc1238265386e0a92143ea009f4e13cf31ab9eb6a5dfb15466aedd45/image.png?disposition=attachment&quot;&gt;
+        &lt;img src=&quot;https://world.hey.com/dhh/9f86fa71/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjQ0MDI4ODUyMSwicHVyIjoiYmxvYl9pZCJ9fQ--09074eb1dc1238265386e0a92143ea009f4e13cf31ab9eb6a5dfb15466aedd45/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlszODQwLDI1NjBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--7edc7b21f6fad97fa22412618822c4d19725431f296c7ce47dc174b61535d27c/image.png&quot; alt=&quot;image.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
+&lt;/a&gt;
+  &lt;/figure&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;I&#39;m thoroughly impressed. All the agent accommodations, like MCPs/CLIs/APIs, probably still have a place for a bit longer, as doing all this work cold is both a bit slow and token-intensive. But I bet this is just a temporary crutch.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And while I ran this initial experiment on Claude&#39;s Opus 4.5, I later reran most of it on the Chinese open-weight model &lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K2.5&quot;&gt;Kimi K2.5&lt;/a&gt;, and it too was able to get it all right (though it was a fair bit slower when provisioned through OpenRouter).&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Everything is changing so fast in the world of AI right now, but if I was going to skate to where the puck is going to be, it&#39;d be a world where agents, like self-driving cars, don&#39;t need special equipment, like &lt;a href=&quot;https://www.thedrive.com/news/volvo-has-dropped-luminar-and-lidar-for-2026-models&quot;&gt;LIDAR&lt;/a&gt; or MCPs, to interact with the environment. The human affordances will be more than adequate.&lt;/div&gt;&lt;div&gt;&lt;br&gt;What a time to be alive.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Clankers with claws</title>
+    <updated>2026-02-05T15:32:52Z</updated>
+    <dc:date>2026-02-05T15:32:52Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -363,20 +382,5 @@
     <updated>2025-08-07T09:59:35Z</updated>
     <dc:date>2025-08-07T09:59:35Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/44314</id>
-    <link href="https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4"/>
-    <published>2025-08-05T16:49:25Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;&lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt; has been improving at a furious pace. Since it was &lt;a href=&quot;https://world.hey.com/dhh/omarchy-is-out-4666dd31&quot;&gt;first released on June 26&lt;/a&gt;, I&#39;ve pushed out &lt;a href=&quot;https://github.com/basecamp/omarchy/releases&quot;&gt;18(!) new releases&lt;/a&gt; together with a rapidly growing community of collaborators, users, and new-to-Linux enthusiasts. We have about 3,500 early adopters on &lt;a href=&quot;https://discord.gg/tXFUdasqhY&quot;&gt;the Omarchy Discord&lt;/a&gt;, 250 pull requests processed, and one heck of an awesome &lt;a href=&quot;https://archlinux.org/&quot;&gt;Arch&lt;/a&gt; + &lt;a href=&quot;https://hypr.land/&quot;&gt;Hyprland&lt;/a&gt; Linux environment to show for it!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The latest release is 1.11.0, and it brings &lt;a href=&quot;https://www.youtube.com/watch?v=Cft6mZDzIng&quot;&gt;an entirely overhauled control menu&lt;/a&gt; to the experience. Now everything is controlled through a single, unified system that makes it super fast to operate Omarchy&#39;s settings and options through the keyboard. It&#39;s exactly the kind of hands-off-the-mouse operation that I&#39;ve always wanted, and with Linux, I&#39;ve been able to build it just to my tastes. It&#39;s a delight.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;There&#39;s really something special going on in Linux at the moment. Arch has been around for twenty years, but with Hyprland on top, it&#39;s been catapulted in front of an entirely new audience. Folks who&#39;d never thought that open source could be able to deliver a desktop experience &lt;a href=&quot;https://x.com/search?q=omarchy&amp;amp;src=typed_query&quot;&gt;worth giving up Windows or macOS for&lt;/a&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Of course, Linux isn&#39;t for everyone. It&#39;s still an adventure! An awesome, teach-you-about-computers adventure, but not everyone is into computer adventures. Plenty of people are content with &lt;a href=&quot;https://www.youtube.com/watch?v=3S5BLs51yDQ&amp;amp;t=52s&quot;&gt;a computer appliance&lt;/a&gt; where they never have to look under the hood. All good. Microsoft and Apple have those people covered.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But the world is a big place! And in that big place, there are a growing number of computer enthusiasts who&#39;ve grown very disillusioned with both Microsoft and Apple. Folks who could be enticed to give Linux a look, if the barrier was a little lower and the benefits a little clearer. Those are the folks I&#39;m building Omarchy for.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Omarchy is on the move</title>
-    <updated>2025-08-05T16:49:35Z</updated>
-    <dc:date>2025-08-05T16:49:35Z</dc:date>
-  </entry>
-  <dc:date>2026-02-05T12:14:17+00:00</dc:date>
+  <dc:date>2026-02-05T18:19:57+00:00</dc:date>
 </feed>
