@@ -8,7 +8,26 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-02-18T12:16:06+00:00</updated>
+  <updated>2026-03-05T00:29:13+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/47048</id>
+    <link href="https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb"/>
+    <published>2026-02-18T16:23:03Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;The vibes around Linux are changing fast. Companies of all shapes and sizes are paying fresh attention. The hardware game on &lt;a href=&quot;https://www.youtube.com/watch?v=Q77AzvY3FTE&quot;&gt;x86 is rapidly improving&lt;/a&gt;. And thanks to &lt;a href=&quot;https://opencode.ai/&quot;&gt;OpenCode&lt;/a&gt; and Claude Code, terminal user interfaces (TUIs) are suddenly everywhere. It&#39;s all this and Omarchy that we&#39;ll be celebrating in New York City on April 10 at the Shopify SoHo Space for the first &lt;a href=&quot;https://www.omacon.org/&quot;&gt;OMACON&lt;/a&gt;!&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We&#39;ve got an incredible lineup of speakers coming. The creator of Hyprland, Vaxry, will be there. Along with ThePrimeagen and TJ DeVries. You&#39;ll see OpenCode creator Dax Raad. Omarchy power contributors Ryan Hughes and Bjarne Øverli. As well as Chris Powers (Typecraft) and myself as Linux superfans. All packed into a single day of short sessions, plenty of mingle time, and some good food.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Tickets go on sale tomorrow (February 19) at 10am EST. We only have room for 130 attendees total, so I imagine the offered-at-cost $299 tickets will go quickly. But if you can&#39;t manage to snatch a ticket in time, we&#39;ll also be recording everything, so you won&#39;t be left out entirely.&lt;/div&gt;&lt;div&gt;&lt;br&gt;But there is just something special about being together in person about a shared passion. I&#39;ve felt the intensity of that three years in a row now with &lt;a href=&quot;https://www.youtube.com/watch?v=gcwzWzC7gUA&quot;&gt;Rails World&lt;/a&gt;. There&#39;s an endless amount of information and instruction available online, but a sense of community and connection is far more scarce. We nerds need this.&lt;/div&gt;&lt;div&gt;&lt;br&gt;We also need people to JUST DO THINGS. Like kick off a fresh Linux distribution together with over three hundred contributors so far all leaning boldly into aesthetics, ergonomics, and that omakase spirit.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt; only came about last summer, now we&#39;re seeing 50,000 ISO downloads a week, 30,000 people on the Discord, and now our very first exclusive gathering in New York City. This is open source at its best. People from all over, coming together, making cool shit.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Oh, and thanks to Shopify and Tobi for hosting. You gotta love when a hundred-plus billion dollar company like this is run by an uber nerd who can just sign off on doing something fun and cool for the community without any direct plausible payback.)&lt;br&gt;&lt;br&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
+      &lt;a download=&quot;opengraph.png&quot; title=&quot;Download opengraph.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2456133961&quot; href=&quot;https://world.hey.com/dhh/e6ee93cb/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1NjEzMzk2MSwicHVyIjoiYmxvYl9pZCJ9fQ--b9279c009da7b624e34080687903ac6d8841b02e2ea68541ca920b1e84e581fa/opengraph.png?disposition=attachment&quot;&gt;
+        &lt;img src=&quot;https://world.hey.com/dhh/e6ee93cb/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1NjEzMzk2MSwicHVyIjoiYmxvYl9pZCJ9fQ--b9279c009da7b624e34080687903ac6d8841b02e2ea68541ca920b1e84e581fa/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlszODQwLDI1NjBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--7edc7b21f6fad97fa22412618822c4d19725431f296c7ce47dc174b61535d27c/opengraph.png&quot; alt=&quot;opengraph.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
+&lt;/a&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Omacon comes to New York</title>
+    <updated>2026-02-18T16:23:17Z</updated>
+    <dc:date>2026-02-18T16:23:17Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -367,20 +386,5 @@
     <updated>2025-08-07T15:53:01Z</updated>
     <dc:date>2025-08-07T15:53:01Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/44333</id>
-    <link href="https://world.hey.com/dhh/youtube-has-earned-its-crown-48f12ccc"/>
-    <published>2025-08-07T08:51:44Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;I often give Google a lot of shit for &lt;a href=&quot;https://killedbygoogle.com/&quot;&gt;shutting down services&lt;/a&gt; whenever they&#39;re bored, hire a new executive, or face a three-day weekend. The company seems institutionally incapable of standing behind the majority of the products they launch for longer than a KPI cycle. But when the company &lt;em&gt;does&lt;/em&gt; decide that something is pivotal to the business, it&#39;s an entirely different story. And that&#39;s the tale of YouTube: The King of Internet Archives (Video Edition).&lt;br&gt;&lt;br&gt;I&#39;ve just &lt;a href=&quot;https://www.youtube.com/@dhh37&quot;&gt;revived my YouTube channel&lt;/a&gt; after realizing just how often video has become my go-to for learning. This &lt;a href=&quot;https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4&quot;&gt;entire&lt;/a&gt; &lt;a href=&quot;https://world.hey.com/dhh/omarchy-is-out-4666dd31&quot;&gt;Linux&lt;/a&gt; &lt;a href=&quot;https://world.hey.com/dhh/introducing-omakub-354db366&quot;&gt;adventure&lt;/a&gt; I&#39;ve gotten myself into started by watching YouTube creators like &lt;a href=&quot;https://www.youtube.com/@ThePrimeTimeagen&quot;&gt;ThePrimeagen&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@typecraft_dev&quot;&gt;Typecraft&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/@BreadOnPenguins&quot;&gt;Bread on Penguins&lt;/a&gt;. I learned about mechanical keyboards from &lt;a href=&quot;https://www.youtube.com/@HipyoTech&quot;&gt;Hipyo Tech&lt;/a&gt;. Devoured endless mini PC reviews from &lt;a href=&quot;https://www.youtube.com/c/Level1Techs&quot;&gt;Level1Techs&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/@Robtech&quot;&gt;Robtech&lt;/a&gt;. Oh, and took a side quest into retro gaming handhelds with &lt;a href=&quot;https://www.youtube.com/@RetroGameCorps&quot;&gt;Retro Game Corps&lt;/a&gt;.&lt;br&gt;&lt;br&gt;But it was when putting together the playlists for my own channel that YouTube&#39;s royal role in internet archival really stood out. Like with &lt;a href=&quot;https://youtu.be/Gzj723LkRJY?feature=shared&quot;&gt;the original Rails Demo from 19 years ago&lt;/a&gt;(!), &lt;a href=&quot;https://www.youtube.com/watch?v=0CDXJ6bMkMY&quot;&gt;the infamous talk at Startup School from 2009&lt;/a&gt;, or &lt;a href=&quot;https://www.youtube.com/watch?v=GFhoSMD6idk&amp;amp;list=PL3m89j0mV0pfIEdg2fnwRf6Dkqr3xUd3L&amp;amp;index=16&quot;&gt;my very first RailsConf keynote from 2006&lt;/a&gt;. You&#39;d be hard-pressed to find any video content on the internet from those days anywhere else. I notice that with podcast appearances from even just a few years ago that have gone missing already. Decentralization is wonderful in many ways, but it&#39;s very much subject to link rot and disappearing content.&lt;br&gt;&lt;br&gt;I love how you can pull in videos from other channels onto your own page as well. I&#39;ve gathered up a bunch of &lt;a href=&quot;https://www.youtube.com/playlist?list=PL3m89j0mV0peRhnSw1Gyi9mkMDEpZNsrn&quot;&gt;the many podcast appearances I&#39;ve done&lt;/a&gt;, and even dedicated an entire playlist to the &lt;a href=&quot;https://www.youtube.com/playlist?list=PL3m89j0mV0pcb58xIf8LimphGrCHVwNSf&quot;&gt;69(!!) clips from the Lex Fridman interview&lt;/a&gt;. The majority of &lt;a href=&quot;https://www.youtube.com/playlist?list=PL3m89j0mV0pfIEdg2fnwRf6Dkqr3xUd3L&quot;&gt;the RailsConf and Rails World keynotes are on a list&lt;/a&gt;. So is the old &lt;a href=&quot;https://www.youtube.com/playlist?list=PL3m89j0mV0pdNAg6x9oq6S8Qz_4C-yuwj&quot;&gt;On Writing Software Well&lt;/a&gt; series that I keep meaning to bring back.&lt;br&gt;&lt;br&gt;When you&#39;re working in small tech, it&#39;s really easy to become so jaded with big tech that you become ideologically blind to the benefits they do bring. I find no inconsistency in cheering much of the antitrust agenda against Google while also &lt;a href=&quot;https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6&quot;&gt;celebrating their work on Chrome&lt;/a&gt; or their stewardship of YouTube. Any company as large as Google is bound to be full of contradictions, ambitions, and behaviors. We ought to have the capacity to cheer for the good parts and boo at the bad parts without feeling like frauds.&lt;br&gt;&lt;br&gt;So today, I choose to cheer for YouTube. It&#39;s an international treasure of learning, enthusiasm, and discovery.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>YouTube has earned its crown</title>
-    <updated>2025-08-07T09:59:35Z</updated>
-    <dc:date>2025-08-07T09:59:35Z</dc:date>
-  </entry>
-  <dc:date>2026-02-18T12:16:06+00:00</dc:date>
+  <dc:date>2026-03-05T00:29:13+00:00</dc:date>
 </feed>
