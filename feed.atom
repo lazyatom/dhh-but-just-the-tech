@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-04-21T06:42:04+00:00</updated>
+  <updated>2026-04-21T12:26:27+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/47815</id>
+    <link href="https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568"/>
+    <published>2026-04-21T10:56:33Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;&lt;em&gt;Do you see the same truth?&lt;/em&gt; That&#39;s how C.S. Lewis defined the essence of friendship. And that&#39;s what we gathered 130 people in New York to honor for &lt;a href=&quot;https://omacon.org/&quot;&gt;Omacon&lt;/a&gt; two weeks ago. Seeing the same truth: A love of computers. Bespoke computers. Malleable computers. Our computers.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s the kind of magic you can only really summon in person. We do our best online, but you instantly realize what an impoverished medium it is for creating real connections once you&#39;re all together in the same room.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So that&#39;s what we did. We connected. We shared our work, our passion, and our opinions about all these new Linux vibes. It happened in an absolutely gorgeous venue, generously offered for the occasion by Tobi and his event team at Shopify. The space had an almost comedy-club intimacy, with chairs just a few inches from the podium. Thanks to the single-track format, we made the most of that warm atmosphere. &lt;a href=&quot;https://www.youtube.com/watch?v=sMxskir7Rug&quot;&gt;I gave the keynote&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I also got to meet Prime, TJ, Bjarne, Spencer, and Vaxry for the first time in person. Which is always a bit odd when you&#39;ve been working together for a while over the internet. It feels so familiar, but like an unfinished agreement. And then, boom, it&#39;s signed with a handshake and a smile.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Same with getting to meet and talk to a ton of other &lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt; users from all walks of life. Many were programmers, but plenty were not. Some came from other Linux distributions, but most from either Windows or Mac. Everyone shared a passion for computers, though. Not just as instruments of action, but as delightful environments for play, learning, and connection.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It all added up to a massive recharge. I built Omarchy for myself, but sharing it makes it mean so much more. Seeing others enthusiastically embrace it as a starting point for their own Linux adventure is a real boost to the motivation needed to keep making it better. Because there&#39;s always more to do: more systems to cover with perfect compatibility, more corners to polish.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So that&#39;s what we&#39;re going to do, together. Make this distro reach more kindred spirits. Entice those who would love a bespoke, kintsugi system, but don&#39;t know where to start. It&#39;s never going to be for everyone, but that&#39;s also why it works as a beacon for those who choose to share the quest.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Celebrating computers at Omacon</title>
+    <updated>2026-04-21T10:56:33Z</updated>
+    <dc:date>2026-04-21T10:56:33Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -377,5 +392,5 @@
     <updated>2025-08-26T19:18:34Z</updated>
     <dc:date>2025-08-26T19:18:34Z</dc:date>
   </entry>
-  <dc:date>2026-04-21T06:42:04+00:00</dc:date>
+  <dc:date>2026-04-21T12:26:27+00:00</dc:date>
 </feed>
