@@ -8,7 +8,26 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-05-26T07:17:08+00:00</updated>
+  <updated>2026-05-26T13:04:13+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/48129</id>
+    <link href="https://world.hey.com/dhh/basecamp-five-8fcfd2ef"/>
+    <published>2026-05-26T10:52:29Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;I&#39;ve been working on &lt;a href=&quot;https://basecamp.com/&quot;&gt;Basecamp&lt;/a&gt; for half my life, and nearly my entire professional career in software. The first code was written in the summer of 2003 when I was just 23. Now I&#39;m 46, and we&#39;ve just released the fifth major version.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s an incredible update to a service that continues to help about a million users a day avoid dropping the ball when working with others. It&#39;s AI accessible, but not agent hysteric. It&#39;s still famously easy to use, still executes the basics beautifully, and still focuses on the small to medium-sized teams we&#39;ve been serving in the &lt;a href=&quot;https://37signals.com/10&quot;&gt;Fortune 5,000,000&lt;/a&gt; for decades.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here are just three of my favorite new features in Basecamp 5:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Lexxy editor&lt;/strong&gt;: Our &lt;a href=&quot;https://x.com/dhh/status/2059203600035819866?s=20&quot;&gt;new text editor&lt;/a&gt; finally brings tables, markdown, and live syntax highlighting for code to Basecamp. Oh, and voice notes. It&#39;s built on Meta&#39;s Lexical editor toolkit, and it&#39;s going to ship as the default for Action Text in the next major version of Rails.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Keyboard accessible&lt;/strong&gt;: After moving to Linux, building &lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt;, and acquiring a taste for mechanical keyboards, I&#39;ve come to love navigating the computer primarily through hotkeys. So with a lot of effort, &lt;a href=&quot;https://www.youtube.com/watch?v=MOIG0QGJZe8&quot;&gt;Basecamp is now a delight to drive through the keys&lt;/a&gt;, and you don&#39;t have to be a brainiac to remember them all: just hold down SHIFT, and they&#39;re revealed in the interface. SHIFT + S opens the sidebar, ESC moves focus between it and the main page, SHIFT + C starts composing a comment/chat line/answer.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;The permanent sidebar&lt;/strong&gt;: If you live in Basecamp, like I do, it&#39;s to stay on top of all the new things that are constantly happening in a busy account, and that&#39;s just gotten so much faster with the new permanent sidebar. Before, we had a Hey! menu in the top bar. You&#39;d get a little dot when something was new, then you&#39;d open it, click, and the menu would close. If you had five things that were new, it&#39;d be open-click-close, open-click-close, five times. Being able to zoom through these now with just the return key, tap, tap, tap, and I&#39;ve read three new things. So good.&lt;/div&gt;&lt;div&gt;&lt;br&gt;And there&#39;s so much more. Jason put together a &lt;a href=&quot;https://basecamp.com/5&quot;&gt;great summary&lt;/a&gt; on the new marketing site, which in itself is brand new too. A back-to-basics design in many ways. As our entire industry is getting swept up in agent hysteria (and I love AI as much as anyone!), we thought it better to focus on the human communication that&#39;s the cornerstone of Basecamp. The new site just speaks plainly to that mission and shows you the software right at the top.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Another thing that&#39;s back is color, specifically in the logo. Basecamp&#39;s clever but flat paperclip logo has been replaced with a modern take of our original rolling mountains. In full three dimensions, with depth and a gradient. Love it.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Overall, I&#39;m really proud of what we&#39;ve built with Basecamp Five. We&#39;re inching in on a quarter of a century in service! We still have customers who signed up back in early 2004! This is the &lt;a href=&quot;https://37signals.com/policies/until-the-end-of-the-internet&quot;&gt;kind of legacy&lt;/a&gt; that makes me beam, and the new version is just ace.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If you&#39;ve tried Basecamp in the past, &lt;a href=&quot;https://basecamp.com/&quot;&gt;it&#39;s time to take another look&lt;/a&gt;. If you haven&#39;t tried it yet, &lt;a href=&quot;https://basecamp.com/&quot;&gt;you&#39;re in for a treat&lt;/a&gt;.&lt;br&gt;&lt;br&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--jpg&quot;&gt;
+      &lt;a download=&quot;screenshot-2026-05-26_12-33-29-medium.jpg&quot; title=&quot;Download screenshot-2026-05-26_12-33-29-medium.jpg&quot; data-click-proxy-target=&quot;lightbox_link_blob_2572035728&quot; href=&quot;https://world.hey.com/dhh/8fcfd2ef/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjU3MjAzNTcyOCwicHVyIjoiYmxvYl9pZCJ9fQ--7ba863db0ccba0e8e022bac36bd47972d417c6432aaf3a346aeb1c48323074d7/screenshot-2026-05-26_12-33-29-medium.jpg?disposition=attachment&quot;&gt;
+        &lt;img src=&quot;https://world.hey.com/dhh/8fcfd2ef/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjU3MjAzNTcyOCwicHVyIjoiYmxvYl9pZCJ9fQ--7ba863db0ccba0e8e022bac36bd47972d417c6432aaf3a346aeb1c48323074d7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlszODQwLDI1NjBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--b3779d742b3242a2a5284869a45b2a113e0c177f0450c29f0baca1ee780f6604/screenshot-2026-05-26_12-33-29-medium.jpg&quot; alt=&quot;screenshot-2026-05-26_12-33-29-medium.jpg&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
+&lt;/a&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Basecamp Five</title>
+    <updated>2026-05-26T10:52:30Z</updated>
+    <dc:date>2026-05-26T10:52:30Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -373,24 +392,5 @@
     <updated>2025-09-06T09:02:10Z</updated>
     <dc:date>2025-09-06T09:02:10Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/44656</id>
-    <link href="https://world.hey.com/dhh/omarchy-2-0-16fefc15"/>
-    <published>2025-08-26T19:18:05Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;&lt;a href=&quot;https://github.com/basecamp/omarchy/releases/tag/v2.0.0&quot;&gt;Omarchy 2.0&lt;/a&gt; was released on &lt;a href=&quot;https://gbhackers.com/happy-birthday-linux/&quot;&gt;Linux&#39;s 34th birthday&lt;/a&gt; as a gift to perhaps the greatest open-source project the world has ever known. Not only does Linux run 95% of all servers on the web, billions of devices as an embedded OS, but it also turns out to be an incredible desktop environment!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s crazy that it took me more than thirty years to realize this, but while I spent time in Apple&#39;s walled garden, the free software alternative simply grew better, stronger, and faster. The Linux of 2025 is not the Linux of the 90s or the 00s or even the 10s. It&#39;s shockingly more polished, capable, and beautiful.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s been an absolute honor to celebrate Linux with the making of &lt;a href=&quot;https://omarchy.org&quot;&gt;Omarchy&lt;/a&gt;, the new Linux distribution that I&#39;ve spent the last few months building on top of Arch and Hyprland. What began as a post-install script has turned into a full-blown ISO, dedicated package repository, and &lt;a href=&quot;https://discord.gg/tXFUdasqhY&quot;&gt;flourishing community&lt;/a&gt; of thousands of enthusiasts all collaborating on making it better.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s been improving rapidly with &lt;a href=&quot;https://github.com/basecamp/omarchy/releases&quot;&gt;over twenty releases&lt;/a&gt; since the premiere in late June, but this Version 2.0 update is the biggest one yet. If you&#39;ve been curious about giving Linux a try, you&#39;re not afraid of an operating system that asks you to level up and learn a little, and you want to see what a totally different computing experience can look and feel like, I invite you to give it a go.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here&#39;s a &lt;a href=&quot;https://www.youtube.com/watch?v=TcHY0AEd2Uw&quot;&gt;full tour of Omarchy 2.0&lt;/a&gt;.&lt;br&gt;&lt;br&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--webp&quot;&gt;
-      &lt;a download=&quot;omarchy-2.0.webp&quot; title=&quot;Download omarchy-2.0.webp&quot; data-click-proxy-target=&quot;lightbox_link_blob_2240742387&quot; href=&quot;https://world.hey.com/dhh/16fefc15/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MDc0MjM4NywicHVyIjoiYmxvYl9pZCJ9fQ--a72c47c1a929f74e8d08df2da31bdb6f31ed6d0f9027dbd4c066a9c7e1ad337a/omarchy-2.0.webp?disposition=attachment&quot;&gt;
-        &lt;img src=&quot;https://world.hey.com/dhh/16fefc15/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MDc0MjM4NywicHVyIjoiYmxvYl9pZCJ9fQ--a72c47c1a929f74e8d08df2da31bdb6f31ed6d0f9027dbd4c066a9c7e1ad337a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMzg0MCwyNTYwXSwicXVhbGl0eSI6NjAsImxvYWRlciI6eyJwYWdlIjpudWxsfSwiY29hbGVzY2UiOnRydWV9LCJwdXIiOiJ2YXJpYXRpb24ifX0--12725a832e6e7b2dd7d56a507f20442609781a7502597503a7a5e38f72548391/omarchy-2.0.webp&quot; alt=&quot;omarchy-2.0.webp&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
-&lt;/a&gt;
-  &lt;/figure&gt;&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Omarchy 2.0</title>
-    <updated>2025-08-26T19:18:34Z</updated>
-    <dc:date>2025-08-26T19:18:34Z</dc:date>
-  </entry>
-  <dc:date>2026-05-26T07:17:08+00:00</dc:date>
+  <dc:date>2026-05-26T13:04:13+00:00</dc:date>
 </feed>
