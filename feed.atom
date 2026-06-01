@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-06-01T07:51:57+00:00</updated>
+  <updated>2026-06-01T14:05:37+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/48176</id>
+    <link href="https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9"/>
+    <published>2026-06-01T09:22:27Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;The open source movement spent decades &lt;a href=&quot;https://opensource.org/osd&quot;&gt;fighting for everyone&#39;s right&lt;/a&gt; to change software, through free access to code and permissive licenses to release improvements. But at the dawn of the AI revolution, as this mission is finally being broadly fulfilled, it&#39;s clear that &quot;everyone&quot; never actually meant &lt;em&gt;everyone &lt;/em&gt;to some.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;See, all programmers are equal, but some programmers are more equal than others. If you&#39;re a programmer being assisted by AI, you&#39;re not a &lt;em&gt;real&lt;/em&gt; programmer. Therefore you aren&#39;t entitled to the same supposedly universal open source rights. Or so the self-serving thinking goes in the growing number of anti-agent camps springing up as part of a modern Luddite movement.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Projects big and small have been &lt;a href=&quot;https://github.com/flathub-infra/documentation/commit/992f57b30de98ddbd5e80959e9672998c83c8c97&quot;&gt;erecting&lt;/a&gt; &lt;a href=&quot;https://ziglang.org/code-of-conduct/&quot;&gt;new&lt;/a&gt; &lt;a href=&quot;https://www.netbsd.org/developers/commit-guidelines.html&quot;&gt;participation&lt;/a&gt; &lt;a href=&quot;https://x.com/LundukeJournal/status/2060344714432241990?s=20&quot;&gt;barriers&lt;/a&gt; on contributions aided by AI to preserve the privileges of the old programmer guilds.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;This is a protectionist tale as old as time.&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;And the justifications are just as tired: It&#39;s about quality! It&#39;s about attribution! It&#39;s about workers! Spare me. It&#39;s about you, your insecurities, and your privileges.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Humans have been writing shitty software, with dodgy attribution and plenty of bugs, since five minutes after the profession materialized. Agents aren&#39;t perfect, slop is a problem, but giving more people the power to enjoy &lt;a href=&quot;https://world.hey.com/dhh/the-malleable-computer-7c187a9b&quot;&gt;malleable computers&lt;/a&gt; is undoubtedly a huge win for the founding vision of open source.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But as with so many social movements that purport to fight for freedom or equality, this AI backlash reeks of status games, envy, and what Nietzsche called &lt;em&gt;ressentiment&lt;/em&gt;: &lt;em&gt;How dare you make or change software without suffering through all that I had to endure learning this trade! This precious power is my reward for enduring the social humiliation of being a nerd!&lt;br&gt;&lt;/em&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What should be celebrated as the spread of computing freedoms is instead condemned because it diminishes the exclusivity of those who possessed it first.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Don&#39;t succumb to this insular, fearful, protectionist thinking. Programming is evolving. We don&#39;t exactly what the final shape will look like, but giving more people access to the fruits of computing freedoms is worth resisting the temptation to close the gates of participation.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Let the agents democratize open source</title>
+    <updated>2026-06-01T09:22:27Z</updated>
+    <dc:date>2026-06-01T09:22:27Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -377,20 +392,5 @@
     <updated>2025-09-06T16:32:28Z</updated>
     <dc:date>2025-09-06T16:32:28Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/44814</id>
-    <link href="https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59"/>
-    <published>2025-09-06T09:02:10Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;The best engineering teams take control of their tools. They help develop the frameworks and libraries they depend on, and they do this by running production code on edge — the unreleased next version. That&#39;s where progress is made, that&#39;s where participation matters most.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This sounds scary at first. Edge? Isn&#39;t that just another word for &lt;em&gt;danger&lt;/em&gt;? What if there&#39;s a bug?! Yes, what if? Do you think bugs either just magically appear or disappear? No, they&#39;re put there by programmers and removed by the very same. If you want bug-free frameworks and libraries, you have to work for it, but if you do, the reward for your responsibility is increased engineering excellence.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Take &lt;a href=&quot;https://rubyonrails.org/2025/9/4/rails-8-1-beta-1&quot;&gt;Rails 8.1&lt;/a&gt;, as an example. We just released the first beta version at &lt;a href=&quot;https://www.youtube.com/watch?v=gcwzWzC7gUA&quot;&gt;Rails World&lt;/a&gt;, but Shopify, GitHub, 37signals, and a handful of other frontier teams have already been running this code in production for almost a year. Of course, there were bugs along the way, but good automated testing and diligent programmers caught virtually all of them before they went to production.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It didn&#39;t always used to be this way. Once upon a time, I felt like I had one of the only teams running Rails on edge in production. But now two of the most important web apps in the world are doing the same! At an incredible scale and criticality.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This has allowed both of them, and the few others with the same frontier ambition, to foster a truly elite engineering culture. One that isn&#39;t just a consumer of open source software, but a real-time co-creator. This is a step function in competence and prowess for any team.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s also an incredible motivation boost. When your programmers are able to directly influence the tools they&#39;re working with, they&#39;re far more likely to do so, and thus they go deeper, learn more, and create connections to experts in the same situation elsewhere. But this requires being able to immediately use the improvements or bug fixes they help devise. It doesn&#39;t work if you sit around waiting patiently for the next release before you dare dive in.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Far more companies could do this. Far more companies &lt;em&gt;should&lt;/em&gt; do this. Whether it&#39;s with Ruby, Rails, &lt;a href=&quot;https://omarchy.org&quot;&gt;Omarchy&lt;/a&gt;, or whatever you&#39;re using, your team could level up by getting more involved, taking responsibility for finding issues on edge, and reaping the reward of excellence in the process. So what are you waiting on?&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Engineering excellence starts on edge</title>
-    <updated>2025-09-06T09:02:10Z</updated>
-    <dc:date>2025-09-06T09:02:10Z</dc:date>
-  </entry>
-  <dc:date>2026-06-01T07:51:57+00:00</dc:date>
+  <dc:date>2026-06-01T14:05:37+00:00</dc:date>
 </feed>
