@@ -8,7 +8,7 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-07-12T08:15:03+00:00</updated>
+  <updated>2026-07-12T19:03:57+00:00</updated>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -334,20 +334,5 @@
     <updated>2025-10-16T14:43:41Z</updated>
     <dc:date>2025-10-16T14:43:41Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/45034</id>
-    <link href="https://world.hey.com/dhh/the-great-falls-of-boeing-intel-and-apple-4c18ca39"/>
-    <published>2025-09-22T12:13:11Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;It takes ten years for the culture of a great company to fall apart once the CEO seat is given to someone without an engineering or product background. That&#39;s been the story of Boeing, Intel, and now Apple. Legendary American companies that all got lost when a bean counter, marketing man, or logistics hand took over.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Boeing&#39;s troubles started when they were taken over by McDonnell Douglas in 1997, but really accelerated after 2005 when they installed their first CEO with no aerospace background. The result, after ten years of cost-cutting and outsourcing, was the 737 MAX MCAS tragedies, and an organization gutted of ambition and engineering pride.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Intel did the same thing, and almost at the same time. In 2005, they too installed their first CEO without an engineering background. Ten years later, they were stumbling with delayed nodes, stalled progress, and no answers on mobile. Now the entire business is teetering.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Finally, Apple. Steve Jobs handed the reins to Tim Cook in 2011, but such was the strength of the product pipeline and culture that Jobs left behind, that it initially looked like Cook could break the spell. Show that it was possible for a logistics man to steer one of the great ships of American ingenuity and tech supremacy.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But now the ten-year curse is hitting Apple with an eerily familiar thud. They wasted a decade chasing a self-driving dream without direction, and ended up with &lt;a href=&quot;https://world.hey.com/dhh/apple-has-no-one-left-who-can-say-no-1a542329&quot;&gt;the worst possible car interface&lt;/a&gt; to show for it. They completely &lt;a href=&quot;https://world.hey.com/dhh/apple-does-ai-as-microsoft-did-mobile-df2c98ca&quot;&gt;missed the boat on AI&lt;/a&gt;, and embarrassed themselves with Genmoji and &lt;a href=&quot;https://x.com/iupdate/status/1898102090846925068&quot;&gt;vaporware ads&lt;/a&gt;. And the Vision pro has been an expensive tech demo that &lt;a href=&quot;https://www.reddit.com/r/apple/comments/1fr3syw/apple_vision_pro_owners_how_many_of_you_still/&quot;&gt;nobody actually wanted to wear&lt;/a&gt; three months after they bought it.&amp;nbsp;&lt;br&gt;&lt;br&gt;The profits still gush from glories past, and the tollbooth operation on the App Store, but the soul has left the machine.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;While these three stories are different, they&#39;re drawn from the same archetype: Great companies need bold, hands-on leaders who live and breathe the stuff they make or they&#39;ll eventually hollow out.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s tempting for boards of public companies to think that all care and competence around product can be delegated down the org chart. That someone who can hit the numbers is all you need at the top. But it&#39;s not.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;You need an Andy Grove, Phil Condit, or Scott Forstall. You need someone so professionally invested in the work and the culture that they&#39;ll refuse to let the search for surface-level efficiencies drain the foundation of its strength. You need an engineer or a product person as CEO.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>The great falls of Boeing, Intel, and Apple</title>
-    <updated>2025-09-22T12:13:11Z</updated>
-    <dc:date>2025-09-22T12:13:11Z</dc:date>
-  </entry>
-  <dc:date>2026-07-12T08:15:03+00:00</dc:date>
+  <dc:date>2026-07-12T19:03:57+00:00</dc:date>
 </feed>
