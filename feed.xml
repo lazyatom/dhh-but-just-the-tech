@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-07-26T12:26:04+00:00</updated>
+  <updated>2026-07-26T18:22:47+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/48622</id>
+    <link href="https://world.hey.com/dhh/sitting-down-with-senra-69f5e368"/>
+    <published>2026-07-26T17:22:08Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;Jason and I have been making &lt;a href=&quot;https://signalvnoise.com/posts/3972-reconsider&quot;&gt;the same argument&lt;/a&gt; for over a quarter of a century now: &lt;a href=&quot;https://37signals.com/03&quot;&gt;Small teams&lt;/a&gt; can do incredible things when they &lt;a href=&quot;https://basecamp.com/gettingreal/02.3-fund-yourself#constraints-force-creativity&quot;&gt;embrace their constraints&lt;/a&gt;. And when they work in software or media or other intellectual realms, they don&#39;t need loads of capital to get going, so they can skip the investor rat race, focus on their edge, and find customers to fund the journey.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;With the rise of AI, this argument has never been more potent. When Jason and I got started, you could only do this if you had the skills to build everything with your own hands. You had to be a designer or a programmer to skip taking other people&#39;s money. But now, incredibly, &lt;a href=&quot;https://signalvnoise.com/posts/2188-theres-no-room-for-the-idea-guy&quot;&gt;The Idea Guy&lt;/a&gt; really does have a place and a path.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This old-and-new reality is what I &lt;a href=&quot;https://www.youtube.com/watch?v=76rR68ktQvo&quot;&gt;sat down to talk with David Senra&lt;/a&gt; about in Malibu. Which was kinda meta, because Senra himself has run our playbook, built an incredible podcast success, and is killing it without investors to answer to as well.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And while it&#39;s not just about the money, &lt;a href=&quot;https://x.com/dhh/status/2079955830057931207?s=20&quot;&gt;the money is nice too&lt;/a&gt;! That&#39;s a central part of this claim. Making &quot;yellow Lamborghini money&quot; is far more achievable when it can be done bootstrapping a business to, say, $5–10M/year in revenue. No venture capitalist is going to let you settle for that! They&#39;d rather kill the business than let it stall out there. It&#39;s unicorn or bust.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;That&#39;s their business model. And it&#39;s fine, btw! I&#39;ve actually come to appreciate far more the fruits of these big bets than I did when we got started. The world needs Shopify, Spotify, and SpaceX, to take just three examples of VC-powered success stories starting with S.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But you have to know what you want. If your aspiration is to run a meaningful part of world commerce or send rockets to Mars, I think you should swing for those fences, knowing that the odds are stacked sorely against you. I&#39;m just not that ambitious!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What I am, at times, is obsessed with &lt;a href=&quot;https://x.com/dhh/status/2080751518417092838&quot;&gt;quality&lt;/a&gt;, control, and &lt;a href=&quot;https://37signals.com/01&quot;&gt;independence&lt;/a&gt;. And we stayed a &lt;a href=&quot;https://x.com/davidsenra/status/2080068798175117543?s=20&quot;&gt;&quot;lifestyle business&quot;&lt;/a&gt; primarily because Jason and I shared that obsession. Letting nobody tell us no, having zero expectations to carry but our own, and just focusing on building great software with a small team of superb employees with the best odds we could arrange.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Senra and I talk about this in many different ways. Like how James Cameron&#39;s original Terminator movie, shot on a shoestring, is a far superior movie to Avatar &lt;em&gt;because&lt;/em&gt; of the constraints. Or how this Polish kid Vaxry was able to make a &lt;a href=&quot;https://hypr.land/&quot;&gt;far more compelling window manager&lt;/a&gt; from his dormitory than Apple or Microsoft could do with a trillion-dollar market cap. Constraints provide the pressure that produce diamonds.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But we also talked about the bigger threats to business than just whether you take funding or not. How the early 2020s saw a horde of White Walkers march upon the Wall, and how entrepreneurs of all stripes eventually came to see the common threat to capitalism, prosperity, and self-determination in &lt;a href=&quot;https://world.hey.com/dhh/we-ve-all-had-enough-of-this-nonsense-8545dd26&quot;&gt;woke menance&lt;/a&gt;. And how &lt;a href=&quot;https://www.youtube.com/watch?v=76rR68ktQvo&amp;amp;t=5809s&quot;&gt;Marc Andreessen turned out to be pivotal&lt;/a&gt; in our personal battle with these malevolent forces. Fate loves irony!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Anyway, if any of these topics resonate, I think you&#39;ll appreciate &lt;a href=&quot;https://www.youtube.com/watch?v=76rR68ktQvo&quot;&gt;the episode&lt;/a&gt;. It&#39;s also less demanding on your time than the Lex marathon from last summer, and you&#39;ll only be asked for an hour and a half of your time. Enjoy!&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Sitting down with Senra</title>
+    <updated>2026-07-26T17:22:08Z</updated>
+    <dc:date>2026-07-26T17:22:08Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -353,5 +368,5 @@
     <updated>2025-10-16T14:43:41Z</updated>
     <dc:date>2025-10-16T14:43:41Z</dc:date>
   </entry>
-  <dc:date>2026-07-26T12:26:04+00:00</dc:date>
+  <dc:date>2026-07-26T18:22:47+00:00</dc:date>
 </feed>
