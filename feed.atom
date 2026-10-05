@@ -8,7 +8,7 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-10-05T12:19:14+00:00</updated>
+  <updated>2026-10-05T18:15:50+00:00</updated>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -368,20 +368,5 @@
     <updated>2025-11-24T10:40:13Z</updated>
     <dc:date>2025-11-24T10:40:13Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/45526</id>
-    <link href="https://world.hey.com/dhh/sabbaticals-keep-our-attrition-at-bay-9ccba5c0"/>
-    <published>2025-10-29T09:23:31Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;The only way many tech workers in the US can get a long break is by quitting their job. So lots of them do that every few years, which is partly why the average tenure in our industry is at an atrocious 18 months. But this terrible rate of churn is often avoidable by one simple benefit trick: Sabbaticals.&lt;/div&gt;&lt;div&gt;&lt;br&gt;We&#39;ve been giving everyone at 37signals &lt;a href=&quot;https://basecamp.com/handbook/benefits-and-perks#sabbatical&quot;&gt;a six-week sabbatical every three years&lt;/a&gt; for the last fifteen years or so. It&#39;s been magical for retention because a break like that allows the mind to reset in a way a two-week vacation never could. And when employees yearn for such a reset, the typical option is usually just to quit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;I know the idea of a six-week sabbatical might sound strange to many Europeans who&#39;d be forgiven for thinking &quot;isn&#39;t that just August&quot;? And they&#39;re not exactly wrong. Europeans usually do enjoy more vacation time, but in the tech industry, that also comes with much lower pay. Easily half to two-thirds less.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I think it&#39;s entirely possible to have it both ways: Work for an American tech company with American pay levels, but also enjoy a regular full reset, without having to quit to get it.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And the argument for the boss doesn&#39;t even have to be some humanistic plea about long-term happiness. It can simply be about retention: it&#39;s very expensive to see smart, trained people walk out the door.&lt;/div&gt;&lt;div&gt;&lt;br&gt;I&#39;d even argue that bosses — be they founders or professional executives — benefit just as much from a regular sabbatical like anyone else. Whenever Jason or I have taken one, we&#39;ve always come back with fresh ideas and perspectives that invariably lead to positive changes or new ambitions that wouldn&#39;t have come otherwise.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Six weeks is also just long enough to remind tired founders that selling their company isn&#39;t likely to be the bliss they imagine. That &lt;a href=&quot;https://signalvnoise.com/posts/1930-mojito-island-is-a-mirage&quot;&gt;mojito island&lt;/a&gt; gets boring quickly. That by week five, they&#39;re probably already antsy to get back to the action. There are endless stories of founders who regret selling their business when all they needed was a six-week break from the startup sprint.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bottom line is that we all need a long break every now and then. Not just two weeks on Mallorca, but time enough to get bored. To get hungry for the intellectual stimulation of work and the social connection of colleagues. The sabbatical is a great way to deliver that and keep founders from wanting to sell and employees from wanting to quit.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Sabbaticals keep our attrition at bay</title>
-    <updated>2025-10-29T09:23:56Z</updated>
-    <dc:date>2025-10-29T09:23:56Z</dc:date>
-  </entry>
-  <dc:date>2026-10-05T12:19:14+00:00</dc:date>
+  <dc:date>2026-10-05T18:15:50+00:00</dc:date>
 </feed>
