@@ -8,7 +8,22 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-10-06T06:20:49+00:00</updated>
+  <updated>2026-10-06T12:17:52+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/49334</id>
+    <link href="https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647"/>
+    <published>2026-10-06T07:28:30Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;Two weeks ago at Rails World, I told my fellow programmers that &lt;a href=&quot;https://www.youtube.com/watch?v=vDjW_dRyKXY&amp;amp;t=1245s&quot;&gt;it&#39;s time to put down the pencils&lt;/a&gt;. We&#39;re not going to write the vast majority of code by hand any longer. Coding agents have gotten so good that it&#39;s simply not an economically viable enterprise going forward to have humans typing out lines of Ruby, Rust, or C++.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;When &lt;a href=&quot;https://www.youtube.com/watch?v=vDjW_dRyKXY&amp;amp;t=1306s&quot;&gt;I polled the room&lt;/a&gt; for how many people were still writing a material amount of code by hand on a weekly basis, only a handful put up their hands. So they all knew this, but it still came as a shock to many to actually hear it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And I get that shock. Programming has barely been a professional career for a generation, and now it&#39;s being completely transformed. That&#39;s unsettling, even for a group of people who&#39;ve seen technologies come and go on a regular basis.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But this isn&#39;t just another technology, because AI isn&#39;t just another tool. It&#39;s far more like &lt;a href=&quot;https://x.com/dhh/status/2106422196813877381&quot;&gt;gaining some new coworkers&lt;/a&gt; who are exceptionally good and fast at a wide range of tasks, but still need a bit of help with some, and whose choices you might occasionally disagree with.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;From a certain angle, that looks like competition. Especially when it was barely five minutes ago that programmers were being treated like precious priests whose incantations were necessary to yield even the most low-hanging fruit of the computer. This perceived threat of disintermediation is clearly hitting some programmers hard.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But I don&#39;t think anyone who&#39;s willing to lean into the future, make the most of this intelligence explosion, and apply their skills to what comes next needs to worry much. We&#39;re about to see an absolute bloom in software development as the price of development plummets and everyone realizes how much automation we still have left to do in this world.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I think the only programmers who have to worry about this change are those who refuse to embrace, or drag their feet on, the progress brought by the age of agents. It&#39;s fine to be skeptical about the areas where our new clanker colleagues still occasionally get it wrong, but refusing collaboration is not a viable career path for almost anyone.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Don&#39;t go down with the pencils. There&#39;s so much to build. We need you.&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Over my dead pencil</title>
+    <updated>2026-10-06T07:28:30Z</updated>
+    <dc:date>2026-10-06T07:28:30Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -353,20 +368,5 @@
     <updated>2025-11-25T08:29:01Z</updated>
     <dc:date>2025-11-25T08:29:01Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/45833</id>
-    <link href="https://world.hey.com/dhh/no-backup-no-cry-274e0c31"/>
-    <published>2025-11-24T10:40:13Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;I haven&#39;t done a full-system backup since back in the olden days before &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt; and Git. Every machine I now own is treated as a stateless, disposable unit that can be stolen, lost, or corrupted without consequences. The combination of full-disk encryption and distributed copies of all important data means there&#39;s just no stress if anything bad happens to the computer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;But don&#39;t mistake this for just a &quot;everything is in the cloud&quot; argument. Yes, I use Dropbox and GitHub to hold all the data that I care about, but the beauty of these systems is that they work with local copies of that data, so with a couple of computers here and there, I always have a recent version of everything, in case either syncing service should go offline (or away!).&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The trick to making this regime work is to stick with it. This is especially true for Dropbox. It&#39;s where everything of importance needs to go: documents, images, whatever. And it&#39;s instantly distributed on all the machines I run. Everything outside of Dropbox is essentially treated as a temporary directory that&#39;s fully disposable.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;s from this principle that I built &lt;a href=&quot;https://omarchy.org/&quot;&gt;Omarchy&lt;/a&gt; too. Given that I already had a way to restore all data and code onto a new machine in no time at all, it seemed so unreasonable that the configuration needed for a fully functional system still took hours on end. Now it&#39;s all encoded in an ISO setup that installs in two minutes on a fast computer.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Now it&#39;s true that this method relies on both multiple computers and a fast internet connection. If you&#39;re stuck on a rock in the middle of nowhere, and you somehow haven&#39;t discovered the glory of Starlink, maybe just stick to your old full-disk backup ways. But if you live in the modern world, there ought to be no reason why a busted computer is a calamity of data loss or a long restore process.&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>No backup, no cry</title>
-    <updated>2025-11-24T10:40:13Z</updated>
-    <dc:date>2025-11-24T10:40:13Z</dc:date>
-  </entry>
-  <dc:date>2026-10-06T06:20:49+00:00</dc:date>
+  <dc:date>2026-10-06T12:17:52+00:00</dc:date>
 </feed>
