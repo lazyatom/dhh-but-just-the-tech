@@ -8,7 +8,26 @@
   <link href="https://world.hey.com/dhh"/>
   <subtitle>Articles filtered from David Heinemeier Hansson without the uninterrogated privilege.</subtitle>
   <title>DHH but just the tech</title>
-  <updated>2026-10-07T06:19:49+00:00</updated>
+  <updated>2026-10-07T12:19:02+00:00</updated>
+  <entry>
+    <author>
+      <name>David Heinemeier Hansson</name>
+    </author>
+    <id>tag:world.hey.com,2005:World::Post/49362</id>
+    <link href="https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402"/>
+    <published>2026-10-07T08:01:15Z</published>
+    <summary>&lt;div class=&quot;trix-content&quot;&gt;
+  &lt;div&gt;In the 18th century, &lt;a href=&quot;https://data.nass.usda.gov/About_NASS/pdf/The%20Story%20of%20U.S.%20Agricultural%20Estimates.pdf&quot;&gt;90% of Americans worked in agriculture&lt;/a&gt; to feed themselves and the nation. Today, it&#39;s &lt;a href=&quot;https://www.bls.gov/cps/cpsaat18.htm&quot;&gt;around 1%&lt;/a&gt;. In the 1950s, there were &lt;a href=&quot;https://fraser.stlouisfed.org/title/handbook-women-workers-5561/1969-handbook-women-workers-539721&quot;&gt;hundreds of thousands of telephone switchboard operators&lt;/a&gt;. Today, they&#39;re all gone. There used to be well over a million professional typists too, but word processing largely killed those jobs as well.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This is what progress usually looks like: redundancy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Technological advancement has always rendered some jobs unnecessary. That is literally the progress! Freeing humans from a class of work that used to consume their time and talent so they can pursue new problems.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Individually, this isn&#39;t a picnic. I&#39;m sure lots of the farm laborers displaced by the combine harvester didn&#39;t much care for &quot;progress&quot;. They cared about having a job. Same too for the switchboard operators and typists.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This isn&#39;t just a history lesson either. The Minneapolis City Council just &lt;a href=&quot;https://www.cbsnews.com/minnesota/news/minneapolis-city-council-passes-ordinance-for-driverless-rideshares/&quot;&gt;voted to require self-driving cars to have a human &quot;safety monitor&quot;&lt;/a&gt;. Lots of jobs are on the line if cabbies are no longer necessary! Thankfully, the mayor vetoed it. But note that New Jersey still requires a trained attendant to pump your gas. This kind of job-protection thinking is widespread.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So it&#39;s not hard to see why some programmers are on edge about agents, given the historical precedent of technological progress creating redundancy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But I don&#39;t actually think the majority of them ought to worry. With the price of software creation cratering, we&#39;re likely to see an unprecedented bloom in apps and services. There&#39;s still so much paperwork and other white-collar toil we could automate, and we&#39;ll still need agent wranglers to do the work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What is entirely possible, however, is that some companies won&#39;t need as many programmers as they did before, while others will hire their first programmers or staff up dramatically. It&#39;s very unlikely that the labor market for programming will remain static given the magnitude of this paradigm shift. But, again, that&#39;s the progress!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;That isn&#39;t a license to be glib about it. We all need to live. We all need to eat. What&#39;s good for humanity at large in the long run may well be temporarily tragic for the individual in the short run. Sympathy and compassion are in order for anyone affected by the changes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Just don&#39;t end up like the Minneapolis City Council and think you can legislate progress to a halt. That has never worked.&lt;br&gt;&lt;br&gt;  &lt;figure class=&quot;attachment attachment--preview attachment--lightboxable attachment--png&quot;&gt;
+      &lt;a download=&quot;image.png&quot; title=&quot;Download image.png&quot; data-click-proxy-target=&quot;lightbox_link_blob_2730733397&quot; href=&quot;https://world.hey.com/dhh/76499402/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MjczMDczMzM5NywicHVyIjoiYmxvYl9pZCJ9fQ--022b7f95a08c23ab95f3fd54c2f3306a210aca5861f973b93108e82ca0b15b63/image.png?disposition=attachment&quot;&gt;
+        &lt;img src=&quot;https://world.hey.com/dhh/76499402/representations/eyJfcmFpbHMiOnsiZGF0YSI6MjczMDczMzM5NywicHVyIjoiYmxvYl9pZCJ9fQ--022b7f95a08c23ab95f3fd54c2f3306a210aca5861f973b93108e82ca0b15b63/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlszODQwLDI1NjBdLCJxdWFsaXR5Ijo2MCwibG9hZGVyIjp7InBhZ2UiOm51bGx9LCJjb2FsZXNjZSI6dHJ1ZX0sInB1ciI6InZhcmlhdGlvbiJ9fQ--7edc7b21f6fad97fa22412618822c4d19725431f296c7ce47dc174b61535d27c/image.png&quot; alt=&quot;image.png&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot;&gt;
+&lt;/a&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+    <title>Redundancy is the engine of progress</title>
+    <updated>2026-10-07T08:01:15Z</updated>
+    <dc:date>2026-10-07T08:01:15Z</dc:date>
+  </entry>
   <entry>
     <author>
       <name>David Heinemeier Hansson</name>
@@ -353,20 +372,5 @@
     <updated>2025-12-01T10:56:49Z</updated>
     <dc:date>2025-12-01T10:56:49Z</dc:date>
   </entry>
-  <entry>
-    <author>
-      <name>David Heinemeier Hansson</name>
-    </author>
-    <id>tag:world.hey.com,2005:World::Post/45845</id>
-    <link href="https://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b"/>
-    <published>2025-11-25T08:29:01Z</published>
-    <summary>&lt;div class=&quot;trix-content&quot;&gt;
-  &lt;div&gt;It&#39;s pretty incredible that we&#39;re able to run all these awesome AI models on our own hardware now. From downscaled versions of DeepSeek to gpt-oss-20b, there are many options for many types of computers. But let&#39;s get real here: they&#39;re all vastly behind the frontier models available for rent, and thus for most developers a curiosity at best.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This doesn&#39;t take anything away from the technical accomplishment. It doesn&#39;t take anything away from the fact that small models are improving, and that maybe one day they&#39;ll indeed be good enough for developers to rely on them in their daily work.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;But that day is not today.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thus, I find it spurious to hear developers evaluate their next computer on the prospect of how well it&#39;s capable of running local models. Because they all suck! Whether one sucks a little less than the other doesn&#39;t really matter. And as soon as you discover this, you&#39;ll be back to using the rented models for the vast majority of the work you&#39;re doing.&lt;/div&gt;&lt;div&gt;&lt;br&gt;This is actually great news! It means you really don&#39;t need a 128GB VRAM computer on your desk. Which should come as a relief now that &lt;a href=&quot;https://www.pcworld.com/article/2984629/ram-is-so-expensive-that-stores-are-selling-it-at-market-prices.html&quot;&gt;RAM prices are skyrocketing&lt;/a&gt;, exactly because of AI&#39;s insatiable demand for more resources. Most developers these days can get by with very little, especially if they&#39;re running Linux.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So as an experiment, I&#39;ve parked &lt;a href=&quot;https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff&quot;&gt;my lovely $2,000 Framework Desktop&lt;/a&gt; for a while. It&#39;s an incredible machine, but in the day-to-day, I&#39;ve actually found I barely notice the difference compared to a $500 mini PC from &lt;a href=&quot;https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1&quot;&gt;Beelink&lt;/a&gt; (or &lt;a href=&quot;https://world.hey.com/dhh/cheap-mini-pcs-have-gotten-really-good-c70ab40f&quot;&gt;Minisforum&lt;/a&gt;).&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I bet you likely need way less than you think too.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
-&lt;/div&gt;
-</summary>
-    <title>Local LLMs are how nerds now justify a big computer they don&#39;t need</title>
-    <updated>2025-11-25T08:29:01Z</updated>
-    <dc:date>2025-11-25T08:29:01Z</dc:date>
-  </entry>
-  <dc:date>2026-10-07T06:19:49+00:00</dc:date>
+  <dc:date>2026-10-07T12:19:02+00:00</dc:date>
 </feed>
